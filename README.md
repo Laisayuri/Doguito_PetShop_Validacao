@@ -13,3 +13,6 @@
 - A validar CPF com números repetidos
 - A matemática por trás da validação de um CPF
 - Recursão de função
+- Outra estrutura de regex para a pré-validação do CEP
+- Como fazer uma requisição para a API da viaCEP
+- Preencher outros campos do formulário com a resposta da API da ViaCEP
