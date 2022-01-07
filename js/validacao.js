@@ -59,7 +59,7 @@ function mostraMensagemDeErro(tipoDeInput, input) {
           mensagem = mensagensDeErro[tipoDeInput][erro]
       }
   })
-  qtas 
+   
   return mensagem
 }
 
