@@ -16,3 +16,4 @@
 - Outra estrutura de regex para a pré-validação do CEP
 - Como fazer uma requisição para a API da viaCEP
 - Preencher outros campos do formulário com a resposta da API da ViaCEP
+- Como adicionar máscara monetária para o campo de preço.
