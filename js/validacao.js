@@ -47,15 +47,18 @@ cep: {
     patternMismatch: "O CEP digitado não é válido.",
     customERror: "Não foi possível buscar o CEP."
   },
-logradouro {
+logradouro: {
   valueMissing: "O campo de logradouro não pode estar vazio."
   },
 cidade: {
   valueMissing: "O campo de cidade não pode estar vazio."
   },
 estado: {
-  valueMissing: "O campo do estado não pode estar vazio."
-  }    
+  valueMissing: "O campo de estado não pode estar vazio."
+  },
+preco: {
+  valueMissing: "O campo de preço não pode estar vazio."
+}     
 }
 
 
